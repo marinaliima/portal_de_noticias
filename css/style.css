@@ -10,6 +10,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 15px;
     line-height: 1.5;
+    text-decoration: none;
 }
 
 header {
@@ -48,11 +49,11 @@ article {
     margin-bottom: 5px;
 }
 
+aside {
+    text-align: center;
+}
+
 #destaque {
     color: red;
     font-weight: bold;
-}
-
-#curiosidade {
-    text-align: center;
 }
